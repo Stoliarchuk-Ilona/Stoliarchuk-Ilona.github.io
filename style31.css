@@ -1,0 +1,30 @@
+body{
+    background: #f3f2f3;
+    color: #f7f7f7;
+    font-family: 'Trebuchet MS', Arial, 'Times New Roman';
+    font-size: 20pt;
+    text-align: center;
+}
+#container{
+    background: #3834b0;
+    margin: 30px auto;
+    width: 900px;
+    height: 600px;
+}
+#header{
+    background: #3834b0;
+    width: 900px;
+    height: 100px;
+}
+#menu{
+    background: #cb50de;
+    float: left;
+    width: 450px;
+    height: 400px;
+}
+#content{
+    background: #66cccc;
+    float: right;
+    width: 450px;
+    height: 400px;
+}
